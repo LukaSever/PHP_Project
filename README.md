@@ -1,4 +1,4 @@
-Client-Server (PHP project)
+Client-Server ( PHP project )
 
 This project communicates with the server and allows user registration based on specific criteria. 
 You can also log in to the server. 
